@@ -8,7 +8,7 @@ Long story short, I studied biomedical engineering because apparently combining 
 
 ## 🔬 Things I've Been Getting Into
 
-I've worked on a few projects across **biomedical engineering, including healthcare technology and data analysis**, from analysing EMG signals and medical images to designing medical devices, modelling biological systems and investigating tissue engineering problems.
+I've worked on a few projects across biomedical engineering, including healthcare technology and data analysis, from analysing EMG signals and medical images to designing medical devices, modelling biological systems and investigating tissue engineering problems.
 You can have a look through my repositories below to see what I've been building, analysing and occasionally spending far too long trying to troubleshoot...
 
 ---
