@@ -1,39 +1,36 @@
-# Hi, I'm Yemesis Addo 👋
+# Hey, I'm Yemesis 👋
 
-First-Class Biomedical Engineering graduate from Queen Mary University of London, with practical experience in biomedical research, experimental design, medical device development, data analysis and healthcare technology.
+I'm a **First-Class Biomedical Engineering graduate from Queen Mary University of London**. I like figuring out how things work, asking *way too many questions*, and seeing complicated problems as opportunities to explore, build and create solutions that can hopefully make a meaningful impact.
 
-I enjoy investigating complex problems, working with scientific data and developing evidence-based solutions through hands-on engineering and research projects.
+Long story short, I studied biomedical engineering because apparently combining **maths, physics, biology, programming AND healthcare** into one degree sounded like a reasonable idea. Haha. No regrets though. It's been a pretty interesting ride.
 
-## Technical Skills
+---
 
-**Programming & Data:** Python, MATLAB, Microsoft Excel
+## 🔬 Things I've Been Getting Into
 
-**Engineering & Simulation:** Abaqus, ANSYS Fluent, SolidWorks, Creo Parametric, Simulink
+I've worked on a few projects across **biomedical engineering, including healthcare technology and data analysis**, from analysing EMG signals and medical images to designing medical devices, modelling biological systems and investigating tissue engineering problems.
+You can have a look through my repositories below to see what I've been building, analysing and occasionally spending far too long trying to troubleshoot...
 
-**Biomedical Tools:** 3D Slicer
+---
 
-**Biomedical & Engineering:** Medical Device Design, Medical Imaging, Finite Element Analysis, Computational Fluid Dynamics, Tissue Engineering, Biomaterials, Mechanical Testing, Data & Statistical Analysis
+## 🛠️ Things I Work With
 
-## Selected Projects
+**Programming & Data**  
+`Python` • `MATLAB` • `Excel`
 
-### 🧬 Precision Nutrient Delivery for Tissue Engineering Bioreactors
-Designed and conducted 80+ experiments to evaluate and optimise an in-line microfluidic flow sensor within a perfusion bioreactor for bone tissue engineering, improving real-time flow measurement accuracy by approximately 20%.
+**Engineering & Simulation**  
+`Abaqus` • `ANSYS Fluent` • `Creo Parametric` • `SolidWorks` • `Simulink`
 
-### 🫀 Medical Imaging & Analysis
-Performed manual segmentation of cardiac MRI datasets using 3D Slicer and evaluated segmentation performance against gold-standard data using quantitative measures.
+**Biomedical Tools**  
+`3D Slicer`
 
-### 🦴 Spinal Implant Design
-Contributed to the development of a novel balloon kyphoplasty device for metastatic spinal cord compression and evaluated the design using Finite Element Analysis.
+---
 
-### 📊 Python Data Analysis & Machine Learning
-Used Python for exploratory data analysis, regression modelling and model evaluation, comparing linear regression with gradient boosting.
+## 🌱 Currently...
 
-### 🧫 Tissue Engineering & Regenerative Medicine
-Investigated how agarose concentration affected the mechanical properties and glycosaminoglycan production of chondrocyte-seeded tissue-engineering constructs.
+I'm continuing to build my skills, explore different areas of biomedical engineering and develop projects that sit somewhere between **engineering, biology, healthcare and data**. I'm excited to see where my engineering background can take me — whether that's **medical technology, research, healthcare data, medical devices or maybe somewhere I haven't even discovered yet**.
 
-### 📈 EMG Signal Analysis
-Processed and analysed surface EMG signals using MATLAB, including filtering, rectification, RMS analysis and Fast Fourier Transform analysis.
-
-## Interests
-
-Biomedical research • Medical technology • Healthcare innovation • Medical devices • Research & data analysis
+---
+## 💭 Why This GitHub?
+I created this GitHub because I genuinely loved and enjoyed working on the projects I've completed throughout university and beyond. 
+I wanted a space where I could keep them all together, look back at them whenever I wanted, and see how far I've come while continuing to add more along the way. It's basically my digital diary, but don't be shy. Have a look 👇
