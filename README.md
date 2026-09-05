@@ -1,6 +1,6 @@
 # Hey, I'm Yemesis 👋
 
-I'm a **First-Class Biomedical Engineering graduate from Queen Mary University of London**. I like figuring out how things work, asking *way too many questions*, and seeing complicated problems as opportunities to explore, build and create solutions that can hopefully make a meaningful impact.
+I'm a **First-Class Biomedical Engineering graduate from Queen Mary University of London**. I like figuring out how things work, asking *way too many questions*, and seeing complicated problems as opportunities to explore, build, and create solutions that can hopefully make a meaningful impact.
 
 Long story short, I studied biomedical engineering because apparently combining **maths, physics, biology, programming AND healthcare** into one degree sounded like a reasonable idea. Haha. No regrets though. It's been a pretty interesting ride.
 
