@@ -1,36 +1,48 @@
 # Hey, I'm Yemesis 👋
 
-I'm a First-Class Biomedical Engineering graduate from Queen Mary University of London. I like figuring out how things work, asking *way too many questions*, and seeing complicated problems as opportunities to explore, build, and create solutions that can hopefully make a meaningful impact. 
+I'm a First Class Biomedical Engineering graduate from Queen Mary University of London, based in London. I like figuring out how things work, asking *way too many questions*, and treating complicated problems as a chance to build something that actually helps people.
 
-Long story short, I studied biomedical engineering because apparently combining **maths, physics, biology, programming AND healthcare** into one degree sounded like a reasonable idea. No regrets though. It's been a pretty interesting ride.
-
----
-
-## 🔬 Things I've Been Getting Into
-
-I've worked on a few projects across biomedical engineering, including healthcare technology and data analysis, from analysing EMG signals and medical images to designing medical devices, modelling biological systems and investigating tissue engineering problems.
-You can have a look through my repositories below to see what I've been building, analysing and occasionally spending far too long trying to troubleshoot...
+I studied biomedical engineering because combining **maths, physics, biology, programming and healthcare** in one degree sounded like a reasonable idea. No regrets. It's been a pretty interesting ride.
 
 ---
 
-## 🛠️ Things I Work With
+## ⭐ Featured projects
 
-**Programming & Data**  
+| Project | What happened |
+|---|---|
+| [**Flow sensor for a tissue engineering bioreactor**](https://github.com/yemesis/precision-nutrient-delivery-bioreactor) | Final-year project. 80+ experiments, traced a sensor scaling error by studying the "wrong" data, improved flow measurement accuracy by about 20% |
+| [**Finite element analysis of a steel T-bracket**](https://github.com/yemesis/finite-element-analysis-t-bracket) | Mesh convergence study in Abaqus across four element types; peak stress converged at about 138 MPa |
+| [**Spinal implant for metastatic breast cancer**](https://github.com/yemesis/spinal-implant-design) | Team design of a safer balloon kyphoplasty device, tested with a finite element model |
+| [**Life cycle assessment: tampons vs menstrual cups**](https://github.com/yemesis/healthcare-sustainability-assessment) | Cradle-to-grave LCA over ten years: more than 99% lower carbon emissions for the cup |
+| [**Predicting band gaps with Python**](https://github.com/yemesis/python-data-analysis-machine-learning) | Improved test-set R² from 0.54 to 0.71 by moving from linear regression to a tuned gradient boosting model |
+| [**Cardiac MRI segmentation**](https://github.com/yemesis/medical-imaging-analysis) | 91.65% precision in 3D Slicer, and a lesson in why one metric is never enough |
+
+More: [blood flow CFD](https://github.com/yemesis/cfd-stenosed-aorta) · [EMG signal analysis](https://github.com/yemesis/emg-signal-analysis) · [tissue-engineered cartilage](https://github.com/yemesis/tissue-engineering-regenerative-medicine)
+
+Every project includes what went wrong along the way, because that's usually where I learnt the most. Some data can be corrupt, but all data is useful.
+
+---
+
+## 🛠️ Things I work with
+
+**Programming & data**  
 `Python` • `MATLAB` • `Excel`
 
-**Engineering & Simulation**  
+**Engineering & simulation**  
 `Abaqus` • `ANSYS Fluent` • `Simcenter STAR-CCM+` • `Creo Parametric` • `SolidWorks` • `Simulink`
 
-**Biomedical Tools**  
+**Biomedical tools**  
 `3D Slicer`
 
----
-
-## 🌱 Currently...
-
-I'm continuing to build my skills, explore different areas of biomedical engineering and develop projects that sit somewhere between **engineering, biology, healthcare and data**. I'm excited to see where my engineering background can take me, whether that's **medical technology, research, healthcare data, medical devices or maybe somewhere I haven't even discovered yet**.
+**Training**  
+ICH GCP R3 · IPEM Affiliate member
 
 ---
-## 💭 Why This GitHub?
-I created this GitHub because I genuinely loved and enjoyed working on the projects I've completed throughout university and beyond. 
-I wanted a space where I could keep them all together, look back at them whenever I wanted, and see how far I've come while continuing to add more along the way. It's basically my digital diary, but don't be shy. Have a look 👇
+
+## 🌱 Currently
+
+Looking for graduate roles in **healthcare engineering, medical devices and healthcare data**, and building on my CAD skills along the way.
+
+---
+
+I made this GitHub to keep the projects I've loved working on in one place and see how far I've come. Have a look around 👀
