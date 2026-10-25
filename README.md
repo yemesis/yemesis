@@ -2,7 +2,7 @@
 
 I'm a First-Class Biomedical Engineering graduate from Queen Mary University of London. I like figuring out how things work, asking *way too many questions*, and seeing complicated problems as opportunities to explore, build, and create solutions that can hopefully make a meaningful impact. 
 
-Long story short, I studied biomedical engineering because apparently combining **maths, physics, biology, programming AND healthcare** into one degree sounded like a reasonable idea. Haha. No regrets though. It's been a pretty interesting ride.
+Long story short, I studied biomedical engineering because apparently combining **maths, physics, biology, programming AND healthcare** into one degree sounded like a reasonable idea. No regrets though. It's been a pretty interesting ride.
 
 ---
 
@@ -19,7 +19,7 @@ You can have a look through my repositories below to see what I've been building
 `Python` • `MATLAB` • `Excel`
 
 **Engineering & Simulation**  
-`Abaqus` • `ANSYS Fluent` • `Creo Parametric` • `SolidWorks` • `Simulink`
+`Abaqus` • `ANSYS Fluent` • `Simcenter STAR-CCM+` • `Creo Parametric` • `SolidWorks` • `Simulink`
 
 **Biomedical Tools**  
 `3D Slicer`
@@ -28,7 +28,7 @@ You can have a look through my repositories below to see what I've been building
 
 ## 🌱 Currently...
 
-I'm continuing to build my skills, explore different areas of biomedical engineering and develop projects that sit somewhere between **engineering, biology, healthcare and data**. I'm excited to see where my engineering background can take me — whether that's **medical technology, research, healthcare data, medical devices or maybe somewhere I haven't even discovered yet**.
+I'm continuing to build my skills, explore different areas of biomedical engineering and develop projects that sit somewhere between **engineering, biology, healthcare and data**. I'm excited to see where my engineering background can take me, whether that's **medical technology, research, healthcare data, medical devices or maybe somewhere I haven't even discovered yet**.
 
 ---
 ## 💭 Why This GitHub?
