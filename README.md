@@ -2,7 +2,7 @@
 
 I'm a First Class Biomedical Engineering graduate from Queen Mary University of London. I like figuring out how things work, asking *way too many questions*, and treating complicated problems as a chance to build something new.
 
-I studied biomedical engineering because combining maths, physics, biology, programming and healthcare in one degree sounded like a reasonable idea. No regrets though. It's been a pretty interesting ride.
+I studied biomedical engineering because combining maths, physics, biology, programming and healthcare in one degree sounded like a reasonable idea... No regrets though. It's been a pretty interesting ride.
 
 ---
 
