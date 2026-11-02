@@ -19,7 +19,7 @@ I studied biomedical engineering because combining maths, physics, biology, prog
 
 More: [blood flow CFD](https://github.com/yemesis/cfd-stenosed-aorta) · [EMG signal analysis](https://github.com/yemesis/emg-signal-analysis) · [tissue-engineered cartilage](https://github.com/yemesis/tissue-engineering-regenerative-medicine)
 
-Every project includes what went wrong along the way, because that's usually where I learnt the most. Some data can be corrupt, but all data is useful.
+Every project includes what went wrong along the way, because that's usually where I learnt the most. *Some* data can be corrupt, but *all* data is useful. You have just learnt my favorite mantra.
 
 ---
 
